@@ -33,6 +33,5 @@ The designs were created to the following widths:
 - Weights: 500
 
 
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
 
-font-family: 'Space Grotesk', sans-serif;
+
