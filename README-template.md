@@ -32,15 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/design/active-states.jpg)
+![](/design/complete-state-desktop.jpg)
+![](/design/complete-state-mobile.jpg)
+![](/design/mobile-design.jpg)
+![](/design/desktop-preview.jpg)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
@@ -49,16 +46,14 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
+Regex
 
 
 ## Author
 
 - Website - [Favour Gabriel](https://www.your-site.com)
 - Frontend Mentor - [@FavourGabriel](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@FavourGabriel](https://www.twitter.com/yourusername)
+
 
